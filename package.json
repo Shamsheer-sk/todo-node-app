@@ -1,14 +1,13 @@
 {
   "name": "todo-node-app",
   "version": "1.0.0",
+  "description": "Simple Node.js app for CI/CD",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js"
-}
-
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Shamsheer",
+  "license": "ISC"
 }
+
